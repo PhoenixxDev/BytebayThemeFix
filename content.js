@@ -81,6 +81,10 @@ function replaceColors() {
         font-family: Roboto;
         font-size: 13px;
     }
+
+    .trow_reputation_positive {
+        background: #2b2b2b;
+    }
   `;
   document.head.appendChild(style);
 }
